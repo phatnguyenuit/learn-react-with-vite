@@ -1,11 +1,11 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import HookUsages from "./features/hook-usages";
-import MemoHoc from "./features/memo-hoc";
+import HookUsages from "~/features/hook-usages";
+import MemoHoc from "~/features/memo-hoc";
 
 function App() {
   return (
     <>
-      {/* <HookUsages /> */}
+      <HookUsages />
       {/* <MemoHoc /> */}
     </>
   );
