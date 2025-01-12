@@ -1,4 +1,4 @@
-import Hello from "components/hello";
+import Hello from "~/components/hello";
 
 const SimpleRedux: React.FC = () => {
   console.log("simple redux");
